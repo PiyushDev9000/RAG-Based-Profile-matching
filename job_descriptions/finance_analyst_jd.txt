@@ -1,0 +1,20 @@
+Title: Financial Analyst
+
+Seeking a Financial Analyst with 2+ years in financial modeling and analysis.
+
+Responsibilities:
+- Build and maintain financial models
+- Prepare forecasts and variance analysis
+- Support budgeting and planning processes
+- Present analysis to senior leadership
+
+Required Skills:
+- Financial Modeling, Excel, SQL
+- Forecasting, Risk Analysis, Valuation
+- PowerBI or similar visualization tools
+- Strong accounting knowledge
+
+Nice to have:
+- CFA certification
+- Experience with Bloomberg Terminal
+- Python for financial analysis

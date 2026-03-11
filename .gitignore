@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+
+# ChromaDB (auto-regenerated)
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated resumes (too large for github)
+resumes/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env

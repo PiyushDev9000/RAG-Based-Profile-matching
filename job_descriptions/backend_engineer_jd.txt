@@ -1,0 +1,19 @@
+Title: Backend Software Engineer
+
+We are hiring a Backend Engineer with 2+ years of experience building scalable systems.
+
+Responsibilities:
+- Design and build RESTful APIs
+- Manage databases and optimize queries
+- Work with microservices architecture
+- Participate in code reviews
+
+Required Skills:
+- Python or Java, REST APIs
+- PostgreSQL or MongoDB
+- Docker, Kubernetes
+- AWS or cloud experience
+
+Nice to have:
+- Experience with message queues (Kafka, RabbitMQ)
+- Knowledge of CI/CD pipelines

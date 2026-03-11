@@ -1,0 +1,19 @@
+Title: Senior Data Scientist
+
+We are looking for a Senior Data Scientist with 3+ years of experience.
+
+Responsibilities:
+- Build and deploy machine learning models
+- Analyze large datasets to extract insights
+- Collaborate with engineering teams on model deployment
+- Present findings to stakeholders
+
+Required Skills:
+- Python, Machine Learning, TensorFlow or PyTorch
+- SQL, Pandas, NumPy, Scikit-learn
+- Experience with data visualization tools
+- Strong statistics background
+
+Nice to have:
+- Experience with cloud platforms (AWS/GCP)
+- Knowledge of NLP or Computer Vision

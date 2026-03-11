@@ -1,0 +1,19 @@
+Title: DevOps / Site Reliability Engineer
+
+We need a DevOps Engineer with 2+ years of experience in cloud infrastructure.
+
+Responsibilities:
+- Maintain and improve CI/CD pipelines
+- Manage cloud infrastructure on AWS
+- Monitor system performance and reliability
+- Automate infrastructure using Terraform or Ansible
+
+Required Skills:
+- Docker, Kubernetes, AWS
+- CI/CD, Jenkins
+- Linux, Python scripting
+- Infrastructure as Code (Terraform)
+
+Nice to have:
+- Experience with monitoring tools (Prometheus, Grafana)
+- Security best practices
